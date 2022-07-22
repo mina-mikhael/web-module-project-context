@@ -60,7 +60,7 @@
 
 .shopping-cart button {
 	border: 1px solid white;
-	background: transparent;
+	background: rgb(87, 90, 90);
 	border-radius: 5px;
 	padding: 10px;
 	color: white;
@@ -68,5 +68,5 @@
 
 .shopping-cart button:hover {
 	background: black;
-	color: white;
+	color: rgb(241, 156, 156);
 }
